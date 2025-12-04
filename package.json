@@ -12,5 +12,13 @@
   "dependencies": {
     "tiktoken": "^1.0.22"
   },
-  "devDependencies": {}
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sergio0973/Embebidoss.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Sergio0973/Embebidoss/issues"
+  },
+  "homepage": "https://github.com/Sergio0973/Embebidoss#readme"
 }
