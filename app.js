@@ -1,7 +1,7 @@
 import { promises as fs } from "fs";
 import { encoding_for_model } from "tiktoken";
 
-// Ajusta este nombre al archivo que tengas en la carpeta actual.
+
 const RUTA_LIBRO = "./cien_anos_de_soledad.txt.txt";
 const COSTO_POR_1000_TOKENS = 0.03; // USD por 1000 tokens (gpt-4 input).
 
